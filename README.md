@@ -1,13 +1,12 @@
 #  Agente de IA para Lógica Proposicional (CPC)
-
-Trabalho da disciplina **Lógica para Computação – 2º Bimestre**  
+  
 Aluno: *BRUNO ALVES (26193)*
 
 ---
 
 ##  Objetivo
 
-Este projeto implementa um **Agente de IA para Web** capaz de:
+implementar um **Agente de IA para Web** que:
 
 1. **Modo NL → CPC**  
    Receber frases simples em português e traduzi-las para **fórmulas do Cálculo Proposicional Clássico (CPC)**.
@@ -15,13 +14,9 @@ Este projeto implementa um **Agente de IA para Web** capaz de:
 2. **Modo CPC → NL**  
    Receber uma fórmula lógica e traduzi-la para uma **frase coerente em português**, utilizando significados definidos pelo usuário para as proposições `P`, `Q` e `R`.
 
-Dessa forma, o agente auxilia na compreensão dos fundamentos da **lógica formal** e suas aplicações em IA.
-
 ---
 
 ##  Arquitetura do Sistema
-
-A aplicação é composta por um único serviço web desenvolvido em **Python** com **Streamlit**.
 
 - **Frontend + Backend integrados** via Streamlit  
 - Interface dividida em **duas abas**:
@@ -31,6 +26,12 @@ A aplicação é composta por um único serviço web desenvolvido em **Python** 
   - `P`
   - `Q`
   - `R`
+
+---
+
+##  Site Online
+
+link: https://agentedeia-zqdqdnmjgnb88mwynjpsch.streamlit.app
 
 ### Desenho simplificado
 
