@@ -33,6 +33,8 @@ implementar um **Agente de IA para Web** que:
 
 link: https://agentedeia-zqdqdnmjgnb88mwynjpsch.streamlit.app
 
+---
+
 ### Desenho simplificado
 
 ```text
