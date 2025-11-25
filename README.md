@@ -6,7 +6,7 @@ Aluno: *BRUNO ALVES (26193)*
 
 ##  Objetivo
 
-implementar um **Agente de IA para Web** que:
+Implementar um **Agente de IA para Web** que:
 
 1. **Modo NL → CPC**  
    Receber frases simples em português e traduzi-las para **fórmulas do Cálculo Proposicional Clássico (CPC)**.
@@ -22,7 +22,7 @@ implementar um **Agente de IA para Web** que:
 - Interface dividida em **duas abas**:
   - “Português → Lógica (NL → CPC)”
   - “Lógica → Português (CPC → NL)”
-- **Barra lateral** permite que o usuário defina os significados de:
+- **Barra lateral** permite que a pessoa defina os significados de:
   - `P`
   - `Q`
   - `R`
