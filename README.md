@@ -9,10 +9,10 @@ Aluno: *BRUNO ALVES (26193)*
 Implementar um **Agente de IA para Web** que:
 
 1. **Modo NL → CPC**  
-   Receba frases simples em português e traduzi-las para **fórmulas do Cálculo Proposicional Clássico (CPC)**.
+   Receba frases simples em português e traduzi-las para **CPC**.
 
 2. **Modo CPC → NL**  
-   Receba uma fórmula lógica e traduzi-la para uma **frase coerente em português**, utilizando significados definidos pelo usuário para as proposições `P`, `Q` e `R`.
+   Receba uma fórmula lógica e traduz para uma **frase coerente em português**, utilizando significados definidos pelo user para as proposições `P`, `Q` e `R`.
 
 ---
 
